@@ -1,4 +1,4 @@
-module github.com/xmidt-org/bascule
+module github.com/s-srakshe/bascule
 
 go 1.19
 
